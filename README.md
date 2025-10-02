@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # the_explorer
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ANVESHAK-THE-EXPLORER
+MAJOR PROJECT
+>>>>>>> 7f7faef8da43a273666aa70898454652e3420d43
